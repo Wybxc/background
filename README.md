@@ -8,7 +8,7 @@ First, write a configuration file for the application you want to run in backgro
 
 ```json
 {
-    "command": "command to run",
+    "executable": "command to run",
     "args": ["list", "of", "arguments"],
     "icon": "path to icon file",
 }
