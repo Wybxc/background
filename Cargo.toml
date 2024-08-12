@@ -9,4 +9,4 @@ rfd = "0.14.1"
 serde = { version = "1.0.204", features = ["derive"] }
 serde_json = "1.0.124"
 tray-icon = "0.14.3"
-winit = "0.30.4"
+winit = "0.30.5"
